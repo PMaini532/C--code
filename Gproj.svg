@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="map-svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="638 104 3313 2470" style="enable-background:new 638 104 3313 2470;" xml:space="preserve">
+<style type="text/css">
+	html, body, svg {
+		width: 100%;
+		height: 100%;
+		margin-left:auto;
+		margin-bottom:50px;
+		margin-right: auto;}
+	text {user-select: none;-webkit-user-select: none;-khtml-user-select: none; -moz-user-select: none; -ms-user-select: none;}
+	.Road{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st0{fill:#D3C7B7;stroke:#D3C7B7;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:#679A64;}
+	.st2{display:none;}
+	.st3{fill:#91B340;stroke:#91B340;stroke-miterlimit:10;}
+	.st4{fill:#818B94;}
+	.st5{fill:#F9FF00;}
+	.st6{fill:#DF00FF;}
+	.st7{fill:#FF00ED;}
+	.st7:hover{
+		fill:#FF69B4;
+		filter: drop-shadow(0 0 0.75rem black);
+	}
+	.st8{fill:#B7C4CE;}
+	.st8:hover{
+		fill:#E8BEAC;
+	}
+	.st9{font-family: 'Montserrat', sans-serif;
+		pointer-events: none;}
+	.st10{font-size:12px;}
+	.st11{font-size:9.6975px;}
+	.st12{font-size:6.5589px;}
+	.st13{font-size:22.6776px;}
+	.st14{fill:#5C6368;}
+	.st14:hover{
+		fill:#A9A9A9;
+	}
+	.st15{fill:#FFFFFF;}
+	.st16{font-size:59.4663px;}
+	.st17{font-size:73.8848px;}
+	.st18{font-size:42.4855px;}
+	.st19{font-size:6.0478px;}
+	.st20{fill:#F90000;}
+	.st21{fill:#0000F7;}
+	.st22{fill:#076817;}
+	.st23{fill:#7CFC00;}
+	.st23:hover{
+		fill:#00FF00;}
+	.st24{font-size:119.9717px;}
+	.st25{font-size:55.9688px;}
+	.st26{font-size:46.5319px;}
+	.st27{font-size:45.6586px;}
+	.st28{font-size:27.7789px;}
+	.st29{font-size:30.3127px;}
+	.st30{font-size:69.5235px;}
+	.st31{font-size:100.1307px;}
+	.st32{fill:#00CFFF;}
+	.st33{fill:#FF5F1F;}
+	.st34{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.st35{fill:none;stroke:#DEEF06;stroke-width:3;stroke-miterlimit:10;}
+	.st36{fill:none;stroke:#DEEF06;stroke-width:4;stroke-miterlimit:10;}
+	.st37{fill:none;stroke:#DEEF06;stroke-width:2;stroke-miterlimit:10;}
+	.st38{font-size:312.8047px;}
+	.st39{fill:#00FFB0;}
+	.st39:hover{
+		fill:#FFFFFF;
+		filter: drop-shadow(0 0 0.75rem black);
+	}
+	.st40{font-size:55.3481px;}
+	.st41{font-size:20.2349px;}
+	.st42{font-size:43.7629px;}
+	.st43{font-size:17.1278px;}
+	.st44{font-size:14.8665px;}
+	.st45{font-size:14.7533px;}
+	.st46{font-size:21.8629px;}
+	.st47{font-size:9.1997px;}
+	.st48{font-size:11.7297px;}
+	.st49{font-size:10.4944px;}
+	.st50{font-size:7.8709px;}
+	.st51{font-size:10.2877px;}
+	.st52{font-size:8.976px;}
+	.st53{font-size:10.8924px;}
+	.st54{font-size:34.5431px;}
+	.st55{font-size:24.8391px;}
+	.st56{font-size:14.746px;}
+	.st57{font-size:29.4389px;}
+	.st58{font-size:18.4002px;}
+	.st59{font-size:22.8775px;}
+	.st60{font-size:17.4903px;}
+	.st61{font-size:9.6196px;}
+	.st62{font-size:7.4563px;}
+	.st63{font-size:6.9959px;}
+	.st64{font-size:16.5603px;}
+	.st65{font-size:12.746px;}
+	.st66{font-size:10.3241px;}
+	.st67{font-size:10.9308px;}
+	.st68{font-size:11.5431px;}
+	.st69{font-size:12.0393px;}
+	.st70{font-size:15.3046px;}
+	.st71{font-size:11.3651px;}
+	.st72{font-size:13.4625px;}
+	.st73{font-size:10.3552px;}
+	.st74{font-size:31.278px;}
+	.st75{font-size:25.2562px;}
+	.st76{font-size:60.3988px;}
+	.st77{font-size:12.9787px;}
+	.st78{font-size:64.1354px;}
+	.st79{font-size:20.988px;}
+	.st80{font-size:4.8756px;}
+	.st81{font-size:9.3183px;}
+	.st82{font-size:7.8034px;}
+	.st83{font-size:10.52px;}
+	.st84{font-size:4.3724px;}
+	.st85{font-size:6.5585px;}
+	.st86{font-size:11.4039px;}
+	.st87{font-size:20.9879px;}
+	.st88{font-size:8.6034px;}
+	.st89{stroke:#000000;stroke-miterlimit:10;}
+	.st90{fill:#F7F7F7;}
+	.st91{font-size:9.1042px;}
+	.compass {fill: #fff;stroke: #000;stroke-width: 1;}
+    .button {fill: #225EA8;stroke: #0C2C84;stroke-width: 0.5;stroke-miterlimit:6;stroke-linecap: round;}
+    .button:hover{stroke-width: 10;}
+    .plus-minus {fill: #fff;pointer-events: none;}
+</style>
+<g id="matrix-group" transform="matrix(1 0 0 1 0 0)">
+<g id="Background">
+	<rect x="0.5" y="-0.5" class="st1" width="4689" height="3137"/>
+</g>
+<g id="Outside_Grass">
+	<rect x="638" y="473" class="st1" width="3312" height="2105"/>
+</g>
+<g id="Random_Grass">
+	<polygon class="st3" points="1491.5,556.5 1679.5,556.5 1838.5,688.5 1870.5,664.5 2044.5,798.5 2078.5,763.5 2259.5,896.5 
+		2122.5,1025.5 1964.5,903.5 1862.5,1013.5 1747.5,959.5 1535.5,967.5 1416.5,970.5 1403.5,924.5 1384.5,912.5 	"/>
+	<polygon class="st3" points="2637.5,754.5 2706.5,675.5 2993.5,855.5 2913.5,939.5 	"/>
+	<polyline class="st3" points="2215.5,932.5 2419.5,739.5 2575.5,842.5 2556.5,868.5 2501.5,873.5 2137.5,1247.5 1861.9,1013.3 
+		1970.5,910.5 	"/>
+	<polygon class="st3" points="2546.5,882.5 2645.5,777.5 2898.5,939.5 2847.5,1009.5 2953.5,1077.5 2966.5,1079.5 2973.5,1085.5 
+		2851.5,1236.5 2678.5,1436.5 2659.5,1384.5 2589.5,1368.5 2476.5,1372.5 	"/>
+	<polygon class="st3" points="2851.5,1236.5 3127.5,1436.5 2965.5,1658.5 2886.5,1596.5 2862.5,1624.5 2679.5,1443.5 2668.5,1372.5 
+			"/>
+	<polygon class="st3" points="3006.1,1348.6 3110.5,1210.5 3171.5,1250.5 3355.5,1006.5 3687.5,1219.5 3517.5,1465.5 3603.5,1531.5 
+		3346.5,1924.5 2983.1,1637.1 	"/>
+	<polygon class="st3" points="1724.5,1544.5 1739.5,1528.5 1760.5,1549.5 1781.5,1530.5 1814.5,1568.5 1780.5,1600.5 	"/>
+	<polygon class="st3" points="1339.5,1682.5 1669.5,1371.5 1735.5,1439.5 1400.5,1760.5 1339.5,1685.5 	"/>
+	<polygon class="st3" points="1159.5,1996.5 1271.5,2131.5 1732.5,1682.5 1605.5,1569.5 	"/>
+	<polygon class="st3" points="1835.5,1025.5 1891.5,1050.5 1934.5,1097.5 1831.5,1183.5 1755.5,1175.5 1747.5,1107.5 	"/>
+	<path class="st3" d="M1419.5,1031.5l-78,9c0,0-28,93-28,94s-10,71-10,71l49,17l136-84L1419.5,1031.5z"/>
+	<path class="st3" d="M1417.5,1069.5"/>
+	<path class="st3" d="M1047.5,1850.5l-22,12l11,11l-93,263l12,18c0,0,46-26,47-26s143-139,143-139L1047.5,1850.5z"/>
+	<path class="st3" d="M1490.5,556.5"/>
+</g>
+<g id="Random_Road">
+	<polygon class="st4" points="1936,1495 1864,1555 2054,1734 2343,1415 2153,1268 	"/>
+	<path class="st4" d="M1868,1320c0,0,71,89,72,89s-32,27-32,27l-72-89L1868,1320z"/>
+	<polygon class="st4" points="1664,1505 1791,1617 1852,1561 1726,1441 	"/>
+	<path class="st4" d="M2683,1242l83,17l9,29l-63,66c0,0-59,27-60,27s-62-19-62-19l33-67l59-50L2683,1242z"/>
+	<polygon class="st4" points="1430,551 1491,554 1324,1056 1256,1268 1143,1638 1047,1850 1026,1863 1035,1873 944,2137 864,2391 
+		830,2385 	"/>
+</g>
+<g id="Minor_details">
+	<polygon class="st5" points="1784,1257 1772,1268 1826,1324 1838,1313 	"/>
+	<a href="Images/Main Gate.html" target="_blank"><polyline class="st6" points="1401,945 1343,944 1326,999 1399,1000 	"/></a>
+	<a href="Images/campus store.html" target="_blank"><polygon class="st7" points="2229,1385 2251,1363 2154,1284 2136,1303 	"/></a>
+</g>
+<g id="Road_Areas">
+	<polygon class="st8" points="1680,1639 1716,1674 1766,1624 1729,1588 			"/>
+			<polygon class="st8" points="1243,2075 1273,2110 1334,2050 1306,2014 			"/>
+			<polygon class="st8" points="1461,1925 1441,1903 1528,1816 1549,1838 			"/>
+			<polygon class="st8" points="2398,875 2451,821 2490,848 2436,904 			"/>
+			<polygon class="st8" points="2324,880 2306,866 2365,804 2385,818 			"/>
+			<polygon class="st8" points="2430,773 2410,758 2365,804 2385,818 			"/>
+			<polyline class="st8" points="1851,788 1865,776 1880,785 1866,800 1851,788 			"/>
+			<text transform="matrix(0.699 -0.7152 0.7152 0.699 2418.1716 872.5328)"><tspan x="0" y="0" class="st9 st10"><a href="Images/sub station 1.html" target="_blank">Power</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/sub station 1.html" target="_blank">Substation</a></tspan><tspan x="0" y="28.8" class="st9 st10"><a href="Images/sub station 1.html" target="_blank">     1</a></tspan></text>
+			<text transform="matrix(0.7693 -0.7604 0.703 0.7112 2314.1406 868.7227)"><tspan x="0" y="0" class="st9 st11"><a href="" target="_blank">Animal</a></tspan><tspan x="0" y="11.6" class="st9 st11"><a href="" target="_blank">House</a></tspan></text>
+			<text transform="matrix(0.7101 -0.7041 0.7041 0.7101 2396.4124 793.4597)" class="st9 st10"><a href="" target="_blank">STP-1</a></text>
+			<text transform="matrix(0.9978 0 0 1 1859.0063 785.4902)"><tspan x="0" y="0" class="st9 st12"><a href="" target="_blank">Water</a></tspan><tspan x="0" y="7.9" class="st9 st12"><a href="" target="_blank">Tank</a></tspan></text>
+			<text transform="matrix(0.6061 -0.5115 0.6449 0.7642 1714.403 1651.5886)" class="st9 st13"><a href="" target="_blank">STP-2</a></text>
+</g>
+<g id="Parking">
+	<polygon class="st14" points="1047,1852 1157,1528 1171,1528 1273,1650 1246,1671 1268,1698 1295,1677 1296,1677 1374,1770 
+				1155,1968 1058,1843 			"/>
+			<path class="st14" d="M2054,1734"/>
+			<polygon class="st14" points="2085,1767 2054,1734 2343,1415 2365,1434 2338,1466 2364,1488 2365,1488 2392,1456 2428,1486 
+				2138,1820 2110,1791 2138,1763 2138,1762 2113,1738 			"/>
+			<polygon class="st14" points="1841,1031 1850,1036 1858,1043 1850,1055 1781,1128 1824,1169 1826,1171 1817,1179 1760,1118 			
+				"/>
+			<path class="st14" d="M2348,905"/>
+			<polygon class="st14" points="2348,905 2401,947 2437,905 2386,866 			"/>
+			<polygon class="st14" points="1890,826 1965,886 1852,997 1773,948 1773,947 			"/>
+			<polyline class="st14" points="1258,1216 1259.4,1216.3 1284,1222 1198,1506 1171,1528 			"/>
+			<polygon class="st14" points="1304,1191 1265,1183 1326,1000 1399,1000 1401,980 1421,980 1406,1019 1361,1022 1361,1037 
+				1341,1040 1329,1076 1313,1130 			"/>
+			<polygon class="st14" points="1409,946 1402,925 1383,913 1491,556 1461,555 1343,944 			"/>
+			<text transform="matrix(1.104 0 0 1 1112 1709.7725)"><tspan x="0" y="0" class="st15 st9 st16"><a href="Images/car parking 1.html" target="_blank">Car</a></tspan><tspan x="0" y="71.4" class="st15 st9 st16"><a href="Images/car parking 1.html" target="_blank">Parking</a></tspan></text>
+			<text transform="matrix(0.4134 -0.4656 0.7478 0.664 2189.3843 1707.12)" class="st15 st9 st17"><a href="Images/bus parking.html" target="_blank">Bus Parking</a></text>
+			<text transform="matrix(0.2928 -0.3028 0.7189 0.6951 1847.0636 951.0138)" class="st15 st9 st18"><a href="Images/car parking 2.html" target="_blank">Car Parking</a></text>
+			<text transform="matrix(1.2903 -1.2441 0.6941 0.7199 1793.6179 1093.6617)"><tspan x="0" y="0" class="st15 st9 st19"><a href="" target="_blank">Ambulance</a></tspan><tspan x="0" y="7.3" class="st15 st9 st19"><a href="" target="_blank">Parking</a></tspan></text>
+			<text transform="matrix(1 0 0 1 2375.4683 899.6807)"><tspan x="0" y="0" class="st15 st9 st10"><a href="" target="_blank">Car</a></tspan><tspan x="0" y="14.4" class="st15 st9 st10"><a href="" target="_blank">Parking</a></tspan></text>
+</g>
+<g id="Academic_b">
+	<polygon class="st20" points="1151,2019 1248,2136 1093,2289 1000,2157 	"/>
+	<polygon class="st20" points="1687,1508 1722,1544 1451,1821 1415,1779 	"/>
+	<a href="Images/swimming - Copy.html" target="_blank"><polygon class="st21" points="1653.3,1614.3 1716,1674 1597,1789 1540.4,1729.6 	"/></a>
+	<polygon class="st20" points="1433,1867 1379,1812 1178,1995 1233,2062 	"/>
+	<path class="st20" d="M1826,1371c0,0,30,42,35,46s0,0,0,0s10,13,19,20s0,0,0,0s20,20,36,19l8,5l9,6l-6,5l-67,67l-6-7l-96-95
+		L1826,1371z"/>
+	<polygon class="st20" points="2107,1666 2062,1718 1911,1568 1951,1525 	"/>
+	<polygon class="st20" points="1761,1230 1709,1172 1606,1283 1652,1330 	"/>
+	<polygon class="st20" points="1439,1108 1333,1204 1415,1222 1407,1254 1577,1275 1602,1245 	"/>
+	<polyline class="st20" points="1361,1031 1360.9,1032 1359,1065 1395,1060 1395,1039 1411,1039 1412,1019 1361,1022 	"/>
+	<polygon class="st20" points="1725,882 1764,916 1855,822 1822,799 	"/>
+	<polygon class="st20" points="1636,890 1643,897 1627,911 1645,928 1661,915 1667,919 1672,914 1678,919 1727,873 1682,841 
+		1637,890 	"/>
+	<path class="st20" d="M1906,1021c4.3-7.3,8.7-14.7,13-22c-0.3-9.3-0.7-18.7-1-28l48-51l135,104l-80,93L1906,1021z"/>
+	<path class="st20" d="M1996,1004"/>
+	<path class="st20" d="M2342,900l59,47l-46,48h-40v21h-27v-14l-18,3l-8,11l8,9l13,2v27h-27l-12,11h-8c0,0-13,37-37,40v9l-12,13v20
+		l-31,2v-12h-10l-14,8c0,0-36-21-36-31s-1-29,5-36s21-34,21-34l153-147L2342,900z"/>
+	<polygon class="st20" points="1953,1484 2012,1539 2075,1473 2014,1413 	"/>
+	<polygon class="st20" points="2093,1515 2060,1545 2065,1551 2059,1557 2072,1571 2061,1583 2127,1641 2313,1449 2319,1443 
+		2303,1429 2295,1437 2285,1429 2260,1422 2165,1535 2109,1503 	"/>
+	<polygon class="st20" points="1781,1128 1795,1142 1824,1169 1902,1098 1850,1055 	"/>
+</g>
+<g id="Green_Area">
+	<polyline class="st22" points="3347,1925 3146,2062 2780,1753 2886,1618 2968,1683 2996,1647 	"/>
+	<polygon class="st22" points="3687,1220 3877,1233 3654,1563 3602,1531 3519,1466 	"/>
+	<path class="st22" d="M2721,1264l20,44l-40,34l-22-3l-25,24c0,0-1,1-1,2s-47-7-47-7l11-25l42-57l33-11L2721,1264"/>
+</g>
+<g id="Actual_Playground">
+	<a href="Images/alpha  zone.html" target="_blank"><path class="st23" d="M1614.5,1222.5l-52-33c0,0-114-113-116-115s-3-38-5-49s16-43,16-43l85,3l203-13l65,40L1614.5,1222.5"/></a>
+	<a href="Images/beta zone.html" target="_blank"><path class="st23" d="M1951,1437l7,4l169-178l-101-83l-140,135c33,32,56,68,56,68c15,32,12,41,12,41s0,10-2,11
+				S1951,1437,1951,1437z"/></a>
+				<a href="Images/delta zone.html" target="_blank"><polygon class="st23" points="1999,1157 1837,1312 1784,1257 1944,1111 			"/></a>
+			<a href="Images/chitkara woods.html" target="_blank"><polyline class="st23" points="1733,1412 1676,1354 1772,1268 1826,1324 1733,1413 1733,1412 			"/></a>
+			<polygon class="st23" points="2160,1244 2294,1355 2569,1355 2586,1316 2588,1313 2612,1281 2621,1269 2635,1250 2637,1247 
+				2642,1245 2682,1231 2684,1230 2698,1213 2762,1138 2797,1097 2539,899 2516,891 2503,886 			"/>
+				<a href="Images/sports arena - Copy.html" target="_blank"><polygon class="st23" points="1344,1680 1595,1439 1575,1419 1632,1360 1573,1300 1377,1275 1382,1243 1285,1222 1198,1506 			
+				"/></a>
+				<a href="Images/gamma zone.html" target="_blank"><polygon class="st23" points="2367,1390 2587,1390 2619,1395 2631,1396 2640,1398 2656,1403 2659,1435 2659,1451 2839,1621 
+				2761,1721 			"/></a>
+			<path class="st23" d="M2455,1509"/>
+			<a href="Images/gamma zone.html" target="_blank"><polygon class="st23" points="2455,1509 2323,1661 2419,1760 2440,1739 2623,1905 2740,1748 			"/></a>
+			<polygon class="st23" points="2300,1687 2163,1845 2445,2129 2602,1933 2442,1787 2419,1809 			"/>
+			<polygon class="st23" points="2780,1753 3146,2062 2849,2532 2470,2154 			"/>
+			<text transform="matrix(0.5451 -6.363970e-02 0.116 0.9933 2673.6008 2204.2551)"><tspan x="0" y="0" class="st9 st24"><a href="" target="_blank">Playground</a></tspan><tspan x="0" y="144" class="st9 st24"><a href="" target="_blank">       Area</a></tspan></text>
+			<text transform="matrix(0.5596 -0.6325 0.749 0.6626 2485.0718 1754.833)"><tspan x="0" y="0" class="st9 st25"><a href="Images/gamma zone.html" target="_blank">Gamma</a></tspan><tspan x="0" y="67.2" class="st9 st25"><a href="Images/gamma zone.html" target="_blank">    Zone</a></tspan></text>
+			<text transform="matrix(0.4754 -0.5425 0.7521 0.659 2608.334 1567.4337)"><tspan x="0" y="0" class="st9 st26"><a href="Images/gamma zone.html" target="_blank">Gamma</a></tspan><tspan x="0" y="55.8" class="st9 st26"><a href="Images/gamma zone.html" target="_blank">   Zone</a></tspan></text>
+			<text transform="matrix(1.0984 -1.1222 0.7146 0.6995 1933.7164 1353.6458)"><tspan x="0" y="0" class="st9 st27"><a href="Images/beta zone.html" target="_blank">Beta</a></tspan><tspan x="0" y="54.8" class="st9 st27"><a href="Images/beta zone.html" target="_blank">Zone</a></tspan></text>
+			<text transform="matrix(0.9131 -0.8429 0.6783 0.7348 1701.5525 1375.7146)"><tspan x="0" y="0" class="st9 st28"><a href="Images/chitkara woods.html" target="_blank">Chitkara</a></tspan><tspan x="0" y="33.3" class="st9 st28"><a href="Images/chitkara woods.html" target="_blank">Woods</a></tspan></text>
+			<text transform="matrix(1.384 -1.3233 0.6911 0.7228 1834.5243 1251.3617)"><tspan x="0" y="0" class="st9 st29"><a href="Images/delta zone.html" target="_blank">Delta</a></tspan><tspan x="0" y="36.4" class="st9 st29"><a href="Images/delta zone.html" target="_blank">Zone</a></tspan></text>
+			<text transform="matrix(1.0681 0 0 1 1518 1057.1914)"><tspan x="0" y="0" class="st9 st30"><a href="Images/alpha  zone.html" target="_blank">Alpha</a></tspan><tspan x="0" y="83.4" class="st9 st30"><a href="Images/alpha  zone.html" target="_blank">Zone</a></tspan></text>
+			<text transform="matrix(0.9285 0 0 1 1280 1392.8086)"><tspan x="0" y="0" class="st9 st31"><a href="Images/sports arena.html" target="_blank">Sports</a></tspan><tspan x="0" y="120.2" class="st9 st31"><a href="Images/sports arena.html" target="_blank">Arena</a></tspan></text>
+</g>
+<g id="Yards_x3F_">
+	<polygon class="st32" points="3372,1119 3421,1051 3492,1096 3566,1144 3513,1208 	"/>
+	<polygon class="st32" points="2597,2030 2632,2066 2729,1942 2691,1907 	"/>
+</g>
+<g id="Hostels">
+	<polyline class="st33" points="2816,1233 2772,1188 2883,1063 2930,1097 2817,1232 	"/>
+	<polygon class="st33" points="2620,874 2597,899 2816,1067 2845,1036 	"/>
+	<polygon class="st33" points="2614,826 2648,788 2737,849 2873,942 2835,985 	"/>
+	<polygon class="st33" points="2701,1342 2741,1308 2767,1265 2796,1237 2919,1332 2884,1373 2829,1354 2802,1332 2761,1381 
+		2753,1375 2743,1384 2741,1368 2714,1343 	"/>
+	<polygon class="st33" points="2845,1476 2882,1509 2987,1381 2924,1333 2909,1350 2933,1372 2925,1380 	"/>
+	<polygon class="st33" points="2693,1419 2708,1406 2721,1416 2721,1422 2762,1456 2867,1544 2841,1574 2694,1436 	"/>
+	<polygon class="st33" points="3020,1408 2905,1542 2951,1580 3065,1441 	"/>
+	<polygon class="st33" points="1795,747 1807,755 1817,746 	"/>
+	<path class="st33" d="M1805,739l-10,8L1805,739z"/>
+	<polyline class="st33" points="1805,739 1817,746 1795,747 	"/>
+</g>
+<g id="Road">
+	<g>
+		<polyline class="Road" points="1403.5,962.5 1535.5,967.5 1802.5,716.5 1908.5,781.5 1741.5,954.5 1541.5,967.5 		"/>
+		<polyline class="Road" points="1750.5,954.5 1854.5,1018.5 1966.5,908.5 2119.5,1028.5 2281.5,875.5 2321.5,907.5 2437.5,790.5 
+			2517.5,845.5 2133.5,1245.5 1859.5,1021.5 		"/>
+		<polyline class="Road" points="1838.3,1008.5 1581.5,1283.5 1396.5,1260.5 1401.5,1229.5 1264.5,1199.5 		"/>
+		<path class="Road" d="M2133.5,1245.5l154,127h297c9,0,18.8,2.6,27.7,3.8c16.3,2.2,21.3,2.2,29.4,4c7.4,1.6,18.2,4.7,30.9,11.2
+			c1.4,9.3,2.5,19.4,3.2,30.1c0.5,7.6,0.7,14.9,0.8,21.9c59.3,56,118.7,112,178,168l8,7l-99,127c-146.7-123-293.3-246-440-369"/>
+		<line class="Road" x1="2389.7" y1="1432" x2="2353.5" y2="1474.5"/>
+		<polyline class="Road" points="2766,1742.3 2631.5,1922.5 2446.3,2155.3 		"/>
+		<polyline class="Road" points="1581.5,1283.5 1723.5,1427.5 1861.6,1564.6 2078.6,1784.5 2437.5,2146.5 2834,2542 		"/>
+		<polyline class="Road" points="2854.5,1627.5 2883.5,1593.5 2965.5,1658.5 3102.5,1478.5 3361.5,1133.5 3630.5,1302.5 		"/>
+		<polyline class="Road" points="2706.5,914.5 2587.3,828.8 2539.9,880.3 		"/>
+		<line class="Road" x1="2822.5" y1="1091.5" x2="2875.5" y2="1044.5"/>
+		<polyline class="Road" points="2741.5,937.5 2840.2,1011.2 2953.5,1091.5 		"/>
+		<polyline class="Road" points="2497.4,866.5 2546.5,882.5 2822.5,1094.5 2693.5,1245.5 2648.5,1261.5 2601.5,1324.5 
+			2580.7,1372.5 		"/>
+		<line class="Road" x1="2703.5" y1="701.5" x2="2587.5" y2="828.5"/>
+		<line class="Road" x1="2958.5" y1="869.5" x2="2837.9" y2="1009.5"/>
+		<line class="Road" x1="2645.5" y1="765" x2="2900.4" y2="939.5"/>
+		<line class="Road" x1="1186.5" y1="1519.5" x2="1405.5" y2="1780.5"/>
+		<polyline class="Road" points="1856.5,1559.6 1090.5,2315.5 977.5,2154.5 1146.5,1999.5 1395.9,1773.1 1733,1437 2024.5,1156.4 		
+			"/>
+		<line class="Road" x1="1589.5" y1="1428.5" x2="1656.4" y2="1359.5"/>
+		<line class="Road" x1="1296" y1="1654" x2="1259.5" y2="1682.5"/>
+		<line class="Road" x1="1651.3" y1="1354.3" x2="1942" y2="1089"/>
+		<line class="Road" x1="1709.9" y1="1146" x2="1785.7" y2="1231.6"/>
+		<line class="Road" x1="1735.9" y1="1118.2" x2="1816.2" y2="1203.8"/>
+		<line class="Road" x1="1721.5" y1="1133.6" x2="1802" y2="1216.8"/>
+		<path class="Road" d="M1844,1330.2"/>
+		<path class="Road" d="M1828.8,1345.1c13.2,17.5,25.5,35.7,39.2,52.8c6.9,8.7,14.3,18,22.7,25.6c9.5,8.6,25.4,22.1,38.8,12.5
+			c6.9-4.9,7.3-13,5.7-20.7c-4.4-20.8-19.7-40-32.6-56.2c-7.6-9.6-15.6-19.6-24.9-27.7c-4.3-3.7-8.7-7.3-13-11"/>
+		<path class="Road" d="M1926.5,1439.5"/>
+		<path class="Road" d="M1922.5,1439.5c12.7,8,25.3,16,38,24c-19.6,19.6-39.2,39.2-58.9,58.7c-13.4,13.3-26.7,26.7-40.1,40
+			c-0.2,0.2-0.4,0.4-0.6,0.6"/>
+		<line class="Road" x1="2153.2" y1="1261.8" x2="1960.5" y2="1463.5"/>
+		<line class="Road" x1="2123.5" y1="1752.5" x2="2085.5" y2="1791.5"/>
+		<polyline class="Road" points="1760.5,928.5 1709.5,883.5 1817.5,784.5 1862.5,819.5 		"/>
+		<path class="Road" d="M2663.5,1382.5"/>
+		<line class="Road" x1="2813.5" y1="1345.5" x2="2750.5" y2="1422.5"/>
+		<polyline class="Road" points="2666.5,1380.5 2669.5,1372.5 2685.5,1357.5 2706.5,1360.5 2724.5,1376.5 2726.5,1396.5 
+			2750.5,1410.5 2750.5,1412.5 2753,1419.4 2817.5,1475.5 2886.5,1536.5 2996.5,1406.5 		"/>
+		<line class="Road" x1="2911.5" y1="1368.5" x2="2822.5" y2="1474.5"/>
+		<polyline class="Road" points="1046.5,1856.5 1152.7,1993.9 1271.8,2136.6 		"/>
+		<polyline class="Road" points="1669.5,1624.5 1728.5,1562.5 1790.8,1624.5 		"/>
+		<path class="Road" d="M1445.5,967.5c0,0-26,35-21,66s-1,43,10,55s117,115,117,115l65.5,42"/>
+		<line class="Road" x1="1936" y1="1488" x2="2116.5" y2="1650.5"/>
+		<polyline class="Road" points="2112.4,1304.5 2243.5,1421.5 2160.5,1532.5 2094.5,1483.5 		"/>
+		<line class="Road" x1="2450.5" y1="1487.5" x2="2138.9" y2="1845.3"/>
+		<polyline class="Road" points="2625.1,1930.5 2440.5,1762.5 2419.5,1784.5 2299.2,1661.3 		"/>
+		<polyline class="Road" points="2688.9,1247.1 2759.5,1247.5 2793.5,1215.5 		"/>
+	</g>
+	<g>
+		<path class="Road" d="M1540.9,981.9l-137.9-5.2l1.1-28.3l126.1,4.8l270.6-254.4l130.3,79.9l-183.1,189.6l-205.5,13.4l-0.1-1.1
+			L1540.9,981.9z M1804.3,734.2l-230.8,217l161.6-10.5L1886,784.4L1804.3,734.2z"/>
+		<path class="Road" d="M2134.7,1264.8l-283-231.4l-108.6-66.8l14.9-24.1l94.6,58.2l113-111l153.2,120.1l162.1-153.1l39.7,31.7
+			l115.4-116.4l103.5,71.2L2134.7,1264.8z M1876.3,1016.9l256,209.3l363.4-378.5l-56.5-38.8l-116.6,117.6l-40.3-32.3l-161.9,152.9
+			l-152.8-119.9L1876.3,1016.9z"/>
+		<polygon class="Road" points="1586.9,1298.5 1380.2,1272.8 1385.4,1240.5 1261.5,1213.3 1267.5,1185.7 1417.6,1218.5 
+			1412.8,1248.2 1576.1,1268.5 1827.9,998.8 1848.6,1018.2 		"/>
+		<path class="Road" d="M2765.6,1765.8l-451.3-378.4l0.6-0.7h-32.6l-157.9-130.2l18-21.9l150.1,123.8h291.9c7.3,0,14.3,1.3,21.1,2.5
+			c3,0.5,5.9,1.1,8.5,1.4c6.3,0.8,10.9,1.4,14.6,1.8c6,0.7,10.3,1.2,15.9,2.4c11.6,2.5,23.2,6.7,34.3,12.5l6.5,3.3l1.1,7.2
+			c1.6,10.4,2.7,20.9,3.4,31.3c0.4,5.5,0.6,11.1,0.7,16.6L2864,1601l17.9,15.6L2765.6,1765.8z M2357.7,1386.7l403.7,338.5
+			l81.8-104.9l-180.8-170.6l0-6.1c0-7-0.3-14-0.7-21c-0.5-7.2-1.2-14.4-2.1-21.5c-6.9-3-13.9-5.4-20.9-6.9
+			c-4.2-0.9-7.5-1.3-13.1-1.9c-3.8-0.4-8.6-1-15.2-1.9c-3.3-0.4-6.6-1-9.8-1.6c-5.8-1.1-11.3-2-16-2H2357.7z"/>
+		
+			<rect x="2343.7" y="1439.1" transform="matrix(0.6479 -0.7617 0.7617 0.6479 -271.9168 2318.2434)" class="Road" width="55.8" height="28.3"/>
+		<polygon class="Road" points="2457.4,2164.1 2435.2,2146.5 2620.3,1913.8 2754.6,1733.8 2777.4,1750.8 2642.7,1931.2 
+			2642.6,1931.3 		"/>
+		<polygon class="Road" points="2824,2552 2427.5,2156.5 2068.5,1794.5 1851.5,1574.6 1713.4,1437.5 1571.4,1293.5 1591.6,1273.5 
+			1733.6,1417.5 1871.7,1554.6 2088.6,1774.6 2447.6,2136.5 2844,2532 		"/>
+		<polygon class="Road" points="2968,1678.6 2885.4,1613.1 2865.3,1636.7 2843.7,1618.3 2881.6,1573.9 2963,1638.4 3091.2,1469.9 
+			3358,1114.6 3638,1290.5 3623,1314.5 3365,1152.4 3113.8,1487 		"/>
+		<polygon class="Road" points="2698.2,926 2589.2,847.7 2550.3,889.9 2529.5,870.7 2585.3,810 2714.8,903 		"/>
+		
+			<rect x="2813.6" y="1053.8" transform="matrix(0.7482 -0.6635 0.6635 0.7482 8.799 2159.1843)" class="Road" width="70.8" height="28.3"/>
+		<polygon class="Road" points="2945.3,1103.1 2831.7,1022.5 2733,948.9 2750,926.1 2848.5,999.7 2961.7,1079.9 		"/>
+		<polygon class="Road" points="2593.7,1378.1 2567.7,1366.9 2589.2,1317.4 2639.7,1249.6 2685.2,1233.4 2802,1096.6 2539.8,895.2 
+			2493,879.9 2501.8,853 2553.2,869.8 2843,1092.4 2701.8,1257.6 2657.3,1273.4 2613.8,1331.6 		"/>
+		
+			<rect x="2559.5" y="750.8" transform="matrix(0.6744 -0.7384 0.7384 0.6744 296.4991 2202.3901)" class="Road" width="172" height="28.3"/>
+		
+			<rect x="2805.8" y="925.3" transform="matrix(0.6527 -0.7576 0.7576 0.6527 294.7726 2521.989)" class="Road" width="184.7" height="28.3"/>
+		
+			<rect x="2758.8" y="697.8" transform="matrix(0.5649 -0.8252 0.8252 0.5649 503.3542 2659.0266)" class="Road" width="28.3" height="308.9"/>
+		
+			<rect x="1281.8" y="1479.6" transform="matrix(0.7661 -0.6428 0.6428 0.7661 -757.3883 1219.0563)" class="Road" width="28.3" height="340.7"/>
+		<polygon class="Road" points="1088.5,2337.4 958.8,2152.5 1136.9,1989.1 1386.1,1762.8 1723.2,1426.8 2014.7,1146.2 
+			2034.4,1166.6 1743,1447.1 1405.7,1783.4 1405.4,1783.6 1156,2010 996.2,2156.5 1092.5,2293.6 1846.6,1549.5 1866.5,1569.7 		"/>
+		
+			<rect x="1574.9" y="1379.8" transform="matrix(0.696 -0.7181 0.7181 0.696 -507.545 1589.2339)" class="Road" width="96.1" height="28.3"/>
+		
+			<rect x="1254.6" y="1654.1" transform="matrix(0.7882 -0.6154 0.6154 0.7882 -756.061 1139.7465)" class="Road" width="46.3" height="28.3"/>
+		
+			<rect x="1599.9" y="1207.5" transform="matrix(0.7387 -0.6741 0.6741 0.7387 -353.9254 1530.3859)" class="Road" width="393.6" height="28.3"/>
+		
+			<rect x="1733.6" y="1131.6" transform="matrix(0.7485 -0.6632 0.6632 0.7485 -348.7592 1458.0724)" class="Road" width="28.3" height="114.4"/>
+		
+			<rect x="1761.9" y="1102.3" transform="matrix(0.7295 -0.6839 0.6839 0.7295 -313.7045 1528.7107)" class="Road" width="28.3" height="117.4"/>
+		
+			<rect x="1747.6" y="1117.3" transform="matrix(0.719 -0.695 0.695 0.719 -321.7353 1554.5343)" class="Road" width="28.3" height="115.8"/>
+		<path class="Road" d="M1844,1330.2"/>
+		<path class="Road" d="M1919.4,1453.4c-4.9,0-10.5-1.1-16.8-4.1c-8.1-3.8-15-9.7-21.3-15.4c-9-8.1-16.7-17.8-23.6-26.3l-0.7-0.9
+			c-8.5-10.7-16.6-21.8-24.4-32.5c-4.9-6.8-10-13.8-15.1-20.6l22.6-17.1c5.3,7,10.5,14.1,15.5,21.1c7.6,10.5,15.4,21.3,23.5,31.4
+			l0.7,0.9c6.5,8.1,13.1,16.4,20.4,23c10.9,9.8,17.9,13.7,21,11.5c0.7-0.5,0.7-3.1,0-6.2c-3.8-17.8-18.2-35.8-29.8-50.4l-0.3-0.4
+			c-7.2-9-14.6-18.3-22.8-25.4c-3.1-2.7-6.3-5.4-9.5-8l-3.4-2.9l18.2-21.7l3.4,2.8c3.2,2.7,6.5,5.5,9.8,8.3
+			c10.2,8.8,18.4,19.1,26.4,29.2l0.3,0.4c13.5,16.9,30.2,37.8,35.4,62.1c4.4,20.4-5.2,30.8-11.3,35.2
+			C1934.1,1450.1,1927.8,1453.4,1919.4,1453.4z"/>
+		<path class="Road" d="M1926.5,1439.5"/>
+		<polygon class="Road" points="1870.9,1573 1850.9,1552.9 1937.9,1466 1914.9,1451.5 1930.1,1427.5 1983.1,1461 		"/>
+		
+			<rect x="1917.4" y="1348.5" transform="matrix(0.6908 -0.723 0.723 0.6908 -349.2657 1908.5352)" class="Road" width="279" height="28.3"/>
+		
+			<rect x="2077.3" y="1757.8" transform="matrix(0.6978 -0.7162 0.7162 0.6978 -633.309 2042.7512)" class="Road" width="54.5" height="28.3"/>
+		<polygon class="Road" points="1751.1,939.1 1688.3,883.7 1816.7,766 1871.2,808.3 1853.8,830.7 1818.3,803 1730.7,883.3 
+			1769.9,917.9 		"/>
+		<path class="Road" d="M2663.5,1382.5"/>
+		
+			<rect x="2732.3" y="1369.8" transform="matrix(0.6332 -0.774 0.774 0.6332 -50.809 2660.7825)" class="Road" width="99.5" height="28.3"/>
+		<polygon class="Road" points="2888,1556.7 2808.2,1486.2 2740.9,1427.7 2738,1419.6 2713.1,1405.1 2710.9,1383.4 2700.3,1373.9 
+			2690.2,1372.5 2681.6,1380.6 2679.8,1385.5 2653.2,1375.5 2657.4,1364.4 2680.8,1342.5 2712.7,1347.1 2738.1,1369.6 
+			2739.9,1387.9 2764.7,1402.4 2764.7,1410 2765.1,1411.2 2826.9,1464.9 2885,1516.3 2985.7,1397.3 3007.3,1415.7 		"/>
+		
+			<rect x="2797.8" y="1407.3" transform="matrix(0.643 -0.7659 0.7659 0.643 -65.1702 2703.1899)" class="Road" width="138.4" height="28.3"/>
+		<polygon class="Road" points="1260.9,2145.7 1141.7,2002.7 1141.5,2002.5 1035.3,1865.2 1057.7,1847.8 1163.8,1985 1282.7,2127.5 
+					"/>
+		<polygon class="Road" points="1780.8,1634.5 1728.8,1582.8 1679.8,1634.3 1659.2,1614.7 1728.2,1542.2 1800.8,1614.5 		"/>
+		<path class="Road" d="M1609.3,1257.4l-66.7-42.8l-1-1c-4.3-4.2-106.4-103.4-117.6-115.6c-10.4-11.3-10.8-22.8-11.2-36
+			c-0.3-7.2-0.5-15.4-2.3-26.3c-5.9-36.5,22.4-75.1,23.6-76.7l22.8,16.9l-11.4-8.5l11.4,8.4c-6.2,8.5-21.7,34.9-18.4,55.3
+			c2,12.6,2.4,22.1,2.6,29.8c0.4,11.8,0.8,14.6,3.8,17.9c8.4,9.2,78.6,77.6,115.4,113.4l64.3,41.2L1609.3,1257.4z"/>
+		
+			<rect x="2012.1" y="1447.8" transform="matrix(0.6691 -0.7432 0.7432 0.6691 -495.7227 2025.1545)" class="Road" width="28.3" height="242.9"/>
+		<polygon class="Road" points="2163.4,1552.3 2086.1,1494.9 2102.9,1472.1 2157.6,1512.7 2224.4,1423.4 2103,1315.1 2121.9,1293.9 
+			2262.6,1419.6 		"/>
+		
+			<rect x="2057.5" y="1652.2" transform="matrix(0.6567 -0.7541 0.7541 0.6567 -468.9731 2302.5862)" class="Road" width="474.5" height="28.3"/>
+		<polygon class="Road" points="2615.6,1941 2441.2,1782.3 2419.6,1804.9 2289,1671.2 2309.3,1651.4 2419.4,1764.1 2439.8,1742.7 
+			2634.7,1920 		"/>
+		<polygon class="Road" points="2765.1,1261.7 2688.9,1261.3 2689,1232.9 2753.9,1233.3 2783.8,1205.2 2803.2,1225.8 		"/>
+	</g>
+	<g>
+		<polyline class="st34" points="1403.5,962.5 1535.5,967.5 1802.5,716.5 1908.5,781.5 1741.5,954.5 1541.5,967.5 		"/>
+		<polyline class="st34" points="1750.5,954.5 1854.5,1018.5 1966.5,908.5 2119.5,1028.5 2281.5,875.5 2321.5,907.5 2437.5,790.5 
+			2517.5,845.5 2133.5,1245.5 1859.5,1021.5 		"/>
+		<polyline class="st34" points="1838.3,1008.5 1581.5,1283.5 1396.5,1260.5 1401.5,1229.5 1264.5,1199.5 		"/>
+		<path class="st34" d="M2133.5,1245.5l154,127h297c9,0,18.8,2.6,27.7,3.8c16.3,2.2,21.3,2.2,29.4,4c7.4,1.6,18.2,4.7,30.9,11.2
+			c1.4,9.3,2.5,19.4,3.2,30.1c0.5,7.6,0.7,14.9,0.8,21.9c59.3,56,118.7,112,178,168l8,7l-99,127c-146.7-123-293.3-246-440-369"/>
+		<line class="st34" x1="2389.7" y1="1432" x2="2353.5" y2="1474.5"/>
+		<polyline class="st34" points="2766,1742.3 2631.5,1922.5 2446.3,2155.3 		"/>
+		<polyline class="st34" points="1581.5,1283.5 1723.5,1427.5 1861.6,1564.6 2078.6,1784.5 2437.5,2146.5 2834,2542 		"/>
+		<polyline class="st34" points="2854.5,1627.5 2883.5,1593.5 2965.5,1658.5 3102.5,1478.5 3361.5,1133.5 3630.5,1302.5 		"/>
+		<polyline class="st34" points="2706.5,914.5 2587.3,828.8 2539.9,880.3 		"/>
+		<line class="st34" x1="2822.5" y1="1091.5" x2="2875.5" y2="1044.5"/>
+		<polyline class="st34" points="2741.5,937.5 2840.2,1011.2 2953.5,1091.5 		"/>
+		<polyline class="st34" points="2497.4,866.5 2546.5,882.5 2822.5,1094.5 2693.5,1245.5 2648.5,1261.5 2601.5,1324.5 
+			2580.7,1372.5 		"/>
+		<line class="st34" x1="2703.5" y1="701.5" x2="2587.5" y2="828.5"/>
+		<line class="st34" x1="2958.5" y1="869.5" x2="2837.9" y2="1009.5"/>
+		<line class="st34" x1="2645.5" y1="765" x2="2900.4" y2="939.5"/>
+		<line class="st34" x1="1186.5" y1="1519.5" x2="1405.5" y2="1780.5"/>
+		<polyline class="st34" points="1856.5,1559.6 1090.5,2315.5 977.5,2154.5 1146.5,1999.5 1395.9,1773.1 1733,1437 2024.5,1156.4 		
+			"/>
+		<line class="st34" x1="1589.5" y1="1428.5" x2="1656.4" y2="1359.5"/>
+		<line class="st34" x1="1296" y1="1654" x2="1259.5" y2="1682.5"/>
+		<line class="st34" x1="1651.3" y1="1354.3" x2="1942" y2="1089"/>
+		<line class="st34" x1="1709.9" y1="1146" x2="1785.7" y2="1231.6"/>
+		<line class="st34" x1="1735.9" y1="1118.2" x2="1816.2" y2="1203.8"/>
+		<line class="st34" x1="1721.5" y1="1133.6" x2="1802" y2="1216.8"/>
+		<path class="st34" d="M1844,1330.2"/>
+		<path class="st34" d="M1828.8,1345.1c13.2,17.5,25.5,35.7,39.2,52.8c6.9,8.7,14.3,18,22.7,25.6c9.5,8.6,25.4,22.1,38.8,12.5
+			c6.9-4.9,7.3-13,5.7-20.7c-4.4-20.8-19.7-40-32.6-56.2c-7.6-9.6-15.6-19.6-24.9-27.7c-4.3-3.7-8.7-7.3-13-11"/>
+		<path class="st34" d="M1926.5,1439.5"/>
+		<path class="st34" d="M1922.5,1439.5c12.7,8,25.3,16,38,24c-19.6,19.6-39.2,39.2-58.9,58.7c-13.4,13.3-26.7,26.7-40.1,40
+			c-0.2,0.2-0.4,0.4-0.6,0.6"/>
+		<line class="st34" x1="2153.2" y1="1261.8" x2="1960.5" y2="1463.5"/>
+		<line class="st34" x1="2123.5" y1="1752.5" x2="2085.5" y2="1791.5"/>
+		<polyline class="st34" points="1760.5,928.5 1709.5,883.5 1817.5,784.5 1862.5,819.5 		"/>
+		<path class="st34" d="M2663.5,1382.5"/>
+		<line class="st34" x1="2813.5" y1="1345.5" x2="2750.5" y2="1422.5"/>
+		<polyline class="st34" points="2666.5,1380.5 2669.5,1372.5 2685.5,1357.5 2706.5,1360.5 2724.5,1376.5 2726.5,1396.5 
+			2750.5,1410.5 2750.5,1412.5 2753,1419.4 2817.5,1475.5 2886.5,1536.5 2996.5,1406.5 		"/>
+		<line class="st34" x1="2911.5" y1="1368.5" x2="2822.5" y2="1474.5"/>
+		<polyline class="st34" points="1046.5,1856.5 1152.7,1993.9 1271.8,2136.6 		"/>
+		<polyline class="st34" points="1669.5,1624.5 1728.5,1562.5 1790.8,1624.5 		"/>
+		<path class="st34" d="M1445.5,967.5c0,0-26,35-21,66s-1,43,10,55s117,115,117,115l65.5,42"/>
+		<line class="st34" x1="1936" y1="1488" x2="2116.5" y2="1650.5"/>
+		<polyline class="st34" points="2112.4,1304.5 2243.5,1421.5 2160.5,1532.5 2094.5,1483.5 		"/>
+		<line class="st34" x1="2450.5" y1="1487.5" x2="2138.9" y2="1845.3"/>
+		<polyline class="st34" points="2625.1,1930.5 2440.5,1762.5 2419.5,1784.5 2299.2,1661.3 		"/>
+		<polyline class="st34" points="2688.9,1247.1 2759.5,1247.5 2793.5,1215.5 		"/>
+	</g>
+</g>
+<g id="Outside_Road">
+	<polyline points="834,2385 1440,551 1379,551 742,2375 832,2385 	"/>
+	<rect x="638" y="104" width="3312" height="365"/>
+</g>
+<g id="Boundary">
+	<polyline class="st35" points="1170,1528 1156.5,1528.5 1047,1850 1026,1863 1036,1873.8 	"/>
+	<path class="st36" d="M1033,1859"/>
+	<polyline class="st35" points="1036.5,1872.5 1036.3,1873.1 943.5,2136.5 954.5,2152.5 1086.5,2344.4 1855.9,1591.8 2822,2560.9 
+		2824.5,2557.5 2849.5,2532.5 2848.5,2531.5 3146.5,2062.5 3347.5,1925.5 3604.5,1532.5 3653.5,1562.5 3654.5,1563.5 3877.5,1232.5 
+		3688.5,1219.5 3687.5,1219.5 3355.5,1006.5 3170.5,1249.5 3111.5,1209.5 3005.5,1347.5 2852.5,1236.5 2974.5,1082.5 2866.5,1006.5 
+		2977.5,877.5 2994.5,855.5 2705.5,672.5 2692.5,685.5 2559.5,829.5 2418.5,738.5 2291.5,859.5 2290.5,859.5 2280.5,851.5 
+		2245.5,884.5 2244.5,884.5 2078.5,762.5 2044.5,797.5 1869.5,663.5 1838.5,687.5 1679.5,555.5 1490.5,555.5 1383.5,913.5 
+		1402.5,924.5 1402.5,925.5 1408.5,944.5 	"/>
+	<line class="st35" x1="1285.5" y1="1221.5" x2="1197.5" y2="1505.5"/>
+	<path class="st37" d="M1416.5,981.5c0,0-6,14-7,19c0,0-2,6-2,8l-2,10l-45,3v15l-1,1l-19,2l-28,92l-8,59"/>
+	<path class="st37" d="M1398.5,979.5"/>
+	<text transform="matrix(0.5518 0 0 1 742 376.8193)" class="st15 st9 st38">Guide Map Of Chitkara University, Punjab</text>
+</g>
+<g id="Seagreen_circles">
+	<a href="Images/Futureadmission.html" target="_blank"><ellipse class="st39" cx="1379.5" cy="1034" rx="15.5" ry="10"/></a>
+	<a href="Images/atm.html" target="_blank"><ellipse class="st39" cx="1349.5" cy="1047.5" rx="9.5" ry="6.5"/></a>
+	<a href="Images/Gate 2.html" target="_blank"><circle class="st39" cx="1305" cy="1185" r="17"/></a>
+	<a href="Images/radiostation.html" target="_blank"><ellipse class="st39" cx="1403.5" cy="1138.5" rx="19.5" ry="14.5"/></a>
+	<a href="Images/placement cell.html" target="_blank"><circle class="st39" cx="1444.5" cy="1150.5" r="15.5"/></a>
+	<a href="Images/artgallary.html" target="_blank"><ellipse class="st39" cx="1474.5" cy="1178.5" rx="15.5" ry="16.5"/></a>
+	<a href="Images/picasso block.html" target="_blank"><ellipse class="st39" cx="1391.5" cy="1187" rx="22.5" ry="19"/></a>
+	<a href="Images/bloom block.html" target="_blank"><circle class="st39" cx="1506" cy="1196" r="16"/></a>
+	<a href="Images/creche.html" target="_blank"><ellipse class="st39" cx="1563" cy="1249" rx="14" ry="13"/></a>
+	<a href="Images/explore stars.html" target="_blank"><ellipse class="st39" cx="1651" cy="1300.5" rx="20" ry="17.5"/></a>
+	<a href="Images/newton block.html" target="_blank"><ellipse class="st39" cx="1710" cy="1221.5" rx="29" ry="31.5"/></a>
+	<a href="Images/edison block.html" target="_blank"><ellipse class="st39" cx="1853.5" cy="1097" rx="25.5" ry="29"/></a>
+	<a href="Images/Gate 4.html" target="_blank"><ellipse class="st39" cx="1730.5" cy="1431" rx="19.5" ry="16"/></a>
+	<a href="Images/galileo block.html" target="_blank"><ellipse class="st39" cx="1843.5" cy="1455.5" rx="34.5" ry="36.5"/></a>
+	<a href="Images/sportorium - Copy.html" target="_blank"><ellipse class="st39" cx="1579.5" cy="1653.5" rx="25.5" ry="22.5"/></a>
+	<a href="Images/gym.html" target="_blank"><circle class="st39" cx="1453" cy="1785" r="22"/></a>
+	<a href="Images/explorelounge - Copy.html" target="_blank"><circle class="st39" cx="1398" cy="1831" r="24"/></a>
+	<a href="Images/exploretorium - Copy.html" target="_blank"><circle class="st39" cx="1322" cy="1924" r="26"/></a>
+	<a href="Images/tesla block - Copy.html" target="_blank"><circle class="st39" cx="1121" cy="2149" r="60"/></a>
+	<a href="Images/mechanical shop.html" target="_blank"><ellipse class="st39" cx="1984" cy="1596.5" rx="23" ry="30.5"/></a>
+	<a href="Images/explore hub.html" target="_blank"><circle class="st39" cx="2024" cy="1482" r="27"/></a>
+	<a href="Images/escoffier block.html" target="_blank"><ellipse class="st39" cx="2129" cy="1584" rx="40" ry="33"/></a>
+	<a href="Images/Gate 5.html" target="_blank"><ellipse class="st39" cx="2358.5" cy="1372" rx="25.5" ry="15"/></a>
+	
+	<a href="Images/Marcopolo.html" target="_blank"><ellipse transform="matrix(0.6473 -0.7622 0.7622 0.6473 -152.0595 2625.3616)" class="st39" cx="2761" cy="1477" rx="15" ry="28"/></a>
+	<a href="Images/Armstrong.html" target="_blank"><circle class="st39" cx="2884.5" cy="1469.5" r="22.5"/></a>
+	<a href="Images/Magellan.html" target="_blank"><ellipse class="st39" cx="3015.5" cy="1455.5" rx="28.5" ry="25.5"/></a>
+	<a href="Images/Columbus.html" target="_blank"><ellipse class="st39" cx="2807" cy="1294" rx="35" ry="30"/></a>
+	<a href="Images/Vasco.html" target="_blank"><ellipse class="st39" cx="2844" cy="1152" rx="30" ry="26"/></a>
+	
+	<a href="Images/IBN.html" target="_blank"><ellipse transform="matrix(0.5951 -0.8036 0.8036 0.5951 400.9843 2553.6055)" class="st39" cx="2734.8" cy="878.8" rx="22" ry="63.1"/></a>
+	
+		<a href="Images/Pi.html" target="_blank"><ellipse transform="matrix(0.5951 -0.8036 0.8036 0.5951 324.6031 2553.8354)" class="st39" cx="2696.9" cy="954.8" rx="17.3" ry="63.1"/></a>
+	<a href="Images/canal.html" target="_blank"><ellipse class="st39" cx="3027.5" cy="1815" rx="110.5" ry="92"/></a>
+	<a href="Images/atm.html" target="_blank"><ellipse class="st39" cx="1168.5" cy="1553.5" rx="15.5" ry="23.5"/></a>
+	<a href="Images/Gate 3.html" target="_blank"><ellipse class="st39" cx="1197.5" cy="1532" rx="14.5" ry="16"/></a>
+	<a href="Images/babbage block.html" target="_blank"><ellipse class="st39" cx="1662" cy="898.5" rx="19" ry="17.5"/></a>
+	<a href="Images/le corbusier.html" target="_blank"><circle class="st39" cx="1797.5" cy="847.5" r="15.5"/></a>
+	<a href="Images/nightingale block.html" target="_blank"><ellipse class="st39" cx="1808" cy="753" rx="10" ry="11"/></a>
+	<a href="Images/turing block.html" target="_blank"><ellipse class="st39" cx="1975" cy="963.5" rx="19" ry="20.5"/></a>
+	<a href="Images/placement cell.html" target="_blank"><ellipse class="st39" cx="2015.5" cy="996.5" rx="18.5" ry="19.5"/></a>
+	<a href="Images/cctv control.html" target="_blank"><ellipse class="st39" cx="2059" cy="1030.5" rx="19" ry="21.5"/></a>
+	<a href="Images/museum.html" target="_blank"><ellipse class="st39" cx="1918" cy="1003.5" rx="16" ry="15.5"/></a>
+	<a href="Images/de morgan block.html" target="_blank"><ellipse class="st39" cx="1953.5" cy="1024" rx="16.5" ry="17"/></a>
+	<a href="Images/Dispensary.html" target="_blank"><ellipse class="st39" cx="2025.5" cy="1092" rx="20.5" ry="19"/></a>
+	<a href="Images/go global.html" target="_blank"><ellipse class="st39" cx="1991.5" cy="1059.5" rx="23.5" ry="22.5"/></a>
+	<a href="Images/library.html" target="_blank"><ellipse class="st39" cx="2115.5" cy="1072" rx="20.5" ry="17"/></a>
+	<a href="Images/chancellor secretariat.html" target="_blank"><ellipse class="st39" cx="2154" cy="1123" rx="26" ry="21"/></a>
+	<a href="Images/fleming block.html" target="_blank"><ellipse class="st39" cx="2219" cy="1020" rx="33" ry="25"/></a>
+	<a href="Images/omega zone.html" target="_blank"><ellipse class="st39" cx="2425" cy="1199" rx="172" ry="120"/></a>
+	<a href="Images/bio gas.html" target="_blank"><ellipse transform="matrix(0.623 -0.7822 0.7822 0.623 203.5504 2428.3376)" class="st39" cx="2621" cy="1003" rx="27" ry="54"/></a>
+	<a href="Images/scrapyard.html" target="_blank"><ellipse class="st39" cx="3467" cy="1127" rx="41" ry="36"/></a>
+	
+		<a href="Images/waste.html" target="_blank"><ellipse transform="matrix(0.6536 -0.7569 0.7569 0.6536 -573.0421 2705.083)" class="st39" cx="2668.5" cy="1978.5" rx="49.6" ry="23.7"/></a>
+	<a href="Images/og.html" target="_blank"><ellipse class="st39" cx="3671" cy="1390" rx="80" ry="58"/></a>
+	<text transform="matrix(0.6297 0 0 1 2323.3613 1143.3271)"><tspan x="0" y="0" class="st9 st40"><a href="Images/omega zone.html" target="_blank">Omega Zone</a></tspan><tspan x="0" y="66.4" class="st9 st40"><a href="Images/omega zone.html" target="_blank">          And</a></tspan><tspan x="0" y="132.8" class="st9 st40"><a href="Images/omega zone.html" target="_blank">Cricket Stadium</a></tspan></text>
+			<text transform="matrix(0.5629 -0.7006 0.7796 0.6263 2646.2048 2016.759)" class="st9 st41"><a href="" target="_blank">Waste Yard</a></text>
+			<text transform="matrix(0.6946 0 0 1 2954.6123 1794.5449)"><tspan x="0" y="0" class="st9 st42"><a href="" target="_blank">    Canal</a></tspan><tspan x="0" y="52.5" class="st9 st42"><a href="" target="_blank">Technology</a></tspan></text>
+			<text transform="matrix(0.9107 0 0 1 2105.0635 1580.1641)"><tspan x="0" y="0" class="st9 st43"><a href="Images/escoffier block.html" target="_blank">Escoffier</a></tspan><tspan x="0" y="20.6" class="st9 st43"><a href="Images/escoffier block.html" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(0.515 0 0 1 1965 1592.4424)"><tspan x="0" y="0" class="st9 st44"><a href="Images/mechanical shop.html" target="_blank">Mechanical </a></tspan><tspan x="0" y="17.8" class="st9 st44"><a href="Images/mechanical shop.html" target="_blank">Workshop</a>	</tspan></text>
+			<text transform="matrix(0.8726 0 0 1 2005.7441 1479.3477)"><tspan x="0" y="0" class="st9 st45"><a href="Images/explore hub.html" target="_blank">Explore</a></tspan><tspan x="0" y="17.7" class="st9 st45"><a href="Images/explore hub.html" target="_blank">Hub</a></tspan></text>
+			<text transform="matrix(0.8699 0 0 1 1816.9995 1450.2988)"><tspan x="0" y="0" class="st9 st46"><a href="Images/galileo block.html" target="_blank">Galileo</a></tspan><tspan x="0" y="26.2" class="st9 st46"><a href="Images/galileo block.html" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(0.8289 0 0 1 1343 1049.7012)" class="st9 st47"><a href="Images/atm.html" target="_blank">ATM</a></text>
+			<text transform="matrix(1 0 0 1 1293.5957 1185.2764)"><tspan x="0" y="0" class="st9 st10"><a href="" target="_blank">Gate</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="" target="_blank">   2</a></tspan></text>
+			<text transform="matrix(0.9865 0 0 1 1376.043 1182.8174)"><tspan x="0" y="0" class="st9 st48"><a href="Images/picasso block.html" target="_blank">Picasso</a></tspan><tspan x="0" y="14.1" class="st9 st48"><a href="Images/picasso block.html" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(0.9167 0 0 1 1389.4473 1135.7832)"><tspan x="0" y="0" class="st9 st49"><a href="" target="_blank">Radio</a></tspan><tspan x="0" y="12.6" class="st9 st49"><a href="" target="_blank">Station</a></tspan></text>
+			<text transform="matrix(0.7787 0 0 1 1431 1148.5869)"><tspan x="0" y="0" class="st9 st50"><a href="Images/placement cell.html" target="_blank">Placement</a></tspan><tspan x="0" y="9.4" class="st9 st50"><a href="Images/placement cell.html" target="_blank">     Cell</a></tspan></text>
+			<text transform="matrix(0.7527 0 0 1 1464.2974 1174.6104)"><tspan x="0" y="0" class="st9 st51"><a href="" target="_blank">Art</a></tspan><tspan x="0" y="12.3" class="st9 st51"><a href="" target="_blank">Gallery</a></tspan></text>
+			<text transform="matrix(1.0287 0 0 1 1492.979 1192.5127)"><tspan x="0" y="0" class="st9 st52"><a href="Images/bloom block.html" target="_blank">Bloom</a></tspan><tspan x="0" y="10.8" class="st9 st52"><a href="" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(0.693 0 0 1 1550.8936 1250.8301)" class="st9 st10"><a href="Images/creche.html" target="_blank">Creche</a></text>
+			<text transform="matrix(1 0 0 1 1690.7446 1219.5742)"><tspan x="0" y="0" class="st9 st10"><a href="Images/newton block.html" target="_blank">Newton</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/newton block.html" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(0.9114 0 0 1 1635.957 1297.1162)"><tspan x="0" y="0" class="st9 st53"><a href="Images/explore star.html" target="_blank">Explore</a></tspan><tspan x="0" y="13.1" class="st9 st53"><a href="Images/explore star.html" target="_blank">  Star</a></tspan></text>
+			<text transform="matrix(1.1554 0 0 1 1076.04 2138.9121)"><tspan x="0" y="0" class="st9 st54"><a href="Images/tesla block.html" target="_blank">Tesla</a></tspan><tspan x="0" y="41.5" class="st9 st54"><a href="Images/tesla block.html" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(0.3142 0 0 1 1299.7021 1932.791)" class="st9 st55"><a href="Images/exploretorium.html" target="_blank">Exploratorium</a></text>
+			<text transform="matrix(0.8138 0 0 1 1378.3618 1827.6172)"><tspan x="0" y="0" class="st9 st56"><a href="Images/explorelounge.html" target="_blank">Explore</a></tspan><tspan x="0" y="17.7" class="st9 st56"><a href="Images/explorelounge.html" target="_blank">Lounge</a></tspan></text>
+			<text transform="matrix(0.7312 0 0 1 1433 1792.6406)" class="st9 st57"><a href="" target="_blank">Gym</a></text>
+			<text transform="matrix(0.5195 0 0 1 1556.2549 1658.4004)" class="st9 st58"><a href="Images/sportorium.html" target="_blank">Sportorium</a></text>
+			<text transform="matrix(0.9483 0 0 1 1583 1700.8281)"><tspan x="0" y="0" class="st9 st59"><a href="Images/swimming.html" target="_blank">Swimming</a></tspan><tspan x="0" y="27.5" class="st9 st59"><a href="Images/swimming.html" target="_blank">      Pool</a></tspan></text>
+			<text transform="matrix(1.0865 -0.9452 0.6564 0.7545 1255.921 2075.9648)"><tspan x="0" y="0" class="st9 st10"><a href="" target="_blank">Fire</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="" target="_blank">Fighting </a></tspan><tspan x="0" y="28.8" class="st9 st10"><a href="" target="_blank">Mockup</a></tspan></text>
+			<text transform="matrix(1.3378 -1.2346 0.6782 0.7349 1451.0459 1907.7489)"><tspan x="0" y="0" class="st9 st10"><a href="Images/sub station 2.html" target="_blank">Power</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/sub station 2.html" target="_blank">Substation-2</a></tspan></text>
+			<text transform="matrix(1 0 0 1 1155.4253 1557.2979)" class="st9 st10"><a href="Images/bank.html" target="_blank">Bank</a></text>
+			<text transform="matrix(1 0 0 1 1185.7021 1528.4893)"><tspan x="0" y="0" class="st9 st10"><a href="Images/gate 3.html" target="_blank">Gate</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/gate 3.html" target="_blank">   3</a></tspan></text>
+			<text transform="matrix(1 0 0 1 1719.4683 1428.5527)"><tspan x="0" y="0" class="st9 st10"><a href="Images/gate 4.html" target="_blank">Gate</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/gate 4.html" target="_blank">   4</a></tspan></text>
+			<text transform="matrix(0.8825 0 0 1 1831.9995 1091.6396)"><tspan x="0" y="0" class="st9 st60"><a href="Images/edison block.html" target="_blank">Edison</a></tspan><tspan x="0" y="21" class="st9 st60"><a href="Images/edison block.html" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(0.8981 0 0 1 1647 896.0513)"><tspan x="0" y="0" class="st9 st61"><a href="Images/babbage block.html" target="_blank">Babbage</a></tspan><tspan x="0" y="11.5" class="st9 st61"><a href="Images/babbage block.html" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(0.8128 0 0 1 1787.5957 841.2407)"><tspan x="0" y="0" class="st9 st62"><a href="Images/le corbusier.html" target="_blank">Le</a> </tspan><tspan x="0" y="8.9" class="st9 st62"><a href="" target="_blank">Corbusier</a></tspan><tspan x="0" y="17.9" class="st9 st62"><a href="" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(0.4862 0 0 1 1800.2974 750.8519)"><tspan x="0" y="0" class="st9 st63"><a href="" target="_blank">Nightingale</a></tspan><tspan x="0" y="8.4" class="st9 st63"><a href="" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(1 0 0 1 1959.9785 959.7021)"><tspan x="0" y="0" class="st9 st10"><a href="Images/turing block.html" target="_blank">Turing</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/turing block.html" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(0.4652 0 0 1 1903.958 1007.8604)" class="st9 st64"><a href="" target="_blank">Museum</a></text>
+			<text transform="matrix(0.5791 0 0 1 1999.4893 994.5186)"><tspan x="0" y="0" class="st9 st65"><a href="" target="_blank">Placement</a></tspan><tspan x="0" y="15.3" class="st9 st65"><a href="" target="_blank">       Cell</a></tspan></text>
+			<text transform="matrix(0.968 0 0 1 2042 1020.6406)"><tspan x="0" y="0" class="st9 st66"><a href="Images/cctv controls.html" target="_blank">  CCTV</a></tspan><tspan x="0" y="12.4" class="st9 st66"><a href="Images/cctv controls.html" target="_blank">Controls</a></tspan><tspan x="0" y="24.8" class="st9 st66"><a href="" target="_blank">  Room</a></tspan></text>
+			<text transform="matrix(0.5458 0 0 1 1940.4473 1021.1494)"><tspan x="0" y="0" class="st9 st67"><a href="Images/de morgan block.html" target="_blank">De’Morgan</a></tspan><tspan x="0" y="13.1" class="st9 st67"><a href="Images/de morgan block.html" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(1 0 0 1 1974.915 1055.4678)"><tspan x="0" y="0" class="st9 st10"><a href="Images/go global.html" target="_blank">#Go</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/go global.html" target="_blank">Global</a></tspan></text>
+			<text transform="matrix(0.6851 0 0 1 2006 1094.4258)" class="st9 st10"><a href="" target="_blank">Dispensary</a></text>
+			<text transform="matrix(0.873 0 0 1 2098.8506 1068.6621)"><tspan x="0" y="0" class="st9 st68"><a href="Images/library.html" target="_blank">Central</a></tspan><tspan x="0" y="13.9" class="st9 st68"><a href="Images/library.html" target="_blank">Library</a></tspan></text>
+			<text transform="matrix(0.7675 0 0 1 2132.7876 1119.5439)"><tspan x="0" y="0" class="st9 st69"><a href="Images/chancellor secretariat.html" target="_blank">Chancellor’</a></tspan><tspan x="0" y="14.4" class="st9 st69"><a href="Images/chancellor secretariat.htmls" target="_blank">Secretariat</a></tspan></text>
+			<text transform="matrix(1 0 0 1 2199.2764 1016.915)"><tspan x="0" y="0" class="st9 st10"><a href="Images/fleming block.html" target="_blank">Fleming</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/fleming block.html" target="_blank">Block</a></tspan></text>
+			<text transform="matrix(1 0 0 1 2599.7871 1004.4678)" class="st9 st10"><a href="Images/bio gas.html" target="_blank">Bioplant</a></text>
+			<text transform="matrix(1.1071 0 0 1 2718 873.8086)"><tspan x="0" y="0" class="st9 st70"><a href="" target="_blank">IBN</a></tspan><tspan x="0" y="18.4" class="st9 st70"><a href="" target="_blank">Batuta</a></tspan></text>
+			<text transform="matrix(1.0338 0 0 1 2822.8757 1143.5127)"><tspan x="0" y="0" class="st9 st71"><a href="" target="_blank">Vasco Da</a></tspan><tspan x="0" y="13.6" class="st9 st71"><a href="" target="_blank">Gama</a></tspan><tspan x="0" y="27.3" class="st9 st71"><a href="" target="_blank">Hostel</a></tspan></text>
+			<text transform="matrix(1 0 0 1 2782.4468 1287.2129)"><tspan x="0" y="0" class="st9 st10"><a href="Images/columbus hostel.html" target="_blank">Columbus</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/columbus hostel.html" target="_blank">Hostel</a></tspan></text>
+			<text transform="matrix(0.6165 0 0 1 2867.8086 1465.4795)"><tspan x="0" y="0" class="st9 st72"><a href="Images/armstrong hostel.html" target="_blank">Armstrong</a></tspan><tspan x="0" y="16.2" class="st9 st72"><a href="Images/armstrong hostel.html" target="_blank">Hostel</a></tspan></text>
+			<text transform="matrix(0.7153 0.6015 -0.6436 0.7654 2747.0981 1462.9569)"><tspan x="0" y="0" class="st9 st73"><a href="Images/marco polo hostel.html" target="_blank">MarcoPolo</a></tspan><tspan x="0" y="12.4" class="st9 st73"><a href="Images/marco polo hostel.html" target="_blank">Hostel</a></tspan></text>
+			<text transform="matrix(1 0 0 1 2991.4678 1451.5322)"><tspan x="0" y="0" class="st9 st10"><a href="" target="_blank">Magellan</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="" target="_blank">Hostel</a></tspan></text>
+			<text transform="matrix(0.5325 0 0 1 3433 1135.1797)" class="st9 st74"><a href="" target="_blank">Scrapyard</a></text>
+			<text transform="matrix(1.0978 0 0 1 3625.8945 1379.1387)"><tspan x="0" y="0" class="st9 st75"><a href="" target="_blank">Organic</a></tspan><tspan x="0" y="30.3" class="st9 st75"><a href="" target="_blank">Garden</a></tspan></text>
+			<text transform="matrix(0.3702 -0.3563 0.6935 0.7204 1417.5424 1691.9692)" class="st9 st76"><a href="" target="_blank">Outside Sports Court</a></text>
+			<text transform="matrix(1 0 0 1 2345.8296 1368.4258)"><tspan x="0" y="0" class="st9 st10"><a href="Images/gate 5.html" target="_blank">Gate</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/gate 5.html" target="_blank">    5</a></tspan></text>
+			<text transform="matrix(0.9479 0.4237 -0.4081 0.9129 2682.3049 941.2264)"><tspan x="0" y="0" class="st9 st77"><a href="" target="_blank">Pi</a></tspan><tspan x="0" y="15.6" class="st9 st77"><a href="" target="_blank">Hostel</a></tspan></text>
+			<text transform="matrix(0.1609 -0.473 0.9467 0.3221 1094.3768 1530.281)" class="st15 st9 st78">National Highway (NH-07)</text>
+			<text transform="matrix(1.2593 0 0 1 1340 965.5674)"><tspan x="0" y="0" class="st9 st79"><a href="" target="_blank">Main</a></tspan><tspan x="0" y="25.2" class="st9 st79"><a href="" target="_blank">Gate</a></tspan></text>
+			<text transform="matrix(0.7993 0 0 1 1372 1030.0811)"><tspan x="0" y="0" class="st9 st80"><a href="Images/hello future.html" target="_blank">Hello</a></tspan><tspan x="0" y="5.9" class="st9 st80"><a href="Images/hello future.html" target="_blank">Future</a></tspan><tspan x="0" y="11.7" class="st9 st80"><a href="" target="_blank">Cell</a></tspan></text>
+</g>
+<g id="Pink_circles">
+	<a href="Images/circle 1 - Copy.html" target="_blank"><ellipse class="st7" cx="1233.5" cy="2008" rx="28.5" ry="32"/></a>
+	<a href="Images/Tuck Shop 2.html" target="_blank"><ellipse class="st7" cx="1792" cy="768.5" rx="14" ry="8.5"/></a>
+	<a href="Images/Square 2.html" target="_blank"><ellipse class="st7" cx="1833" cy="764.5" rx="9" ry="6.5"/></a>
+	<a href="Images/tuckshop3.html" target="_blank"><ellipse class="st7" cx="2118" cy="1525.5" rx="14" ry="11.5"/></a>
+	<a href="Images/dhaba.html" target="_blank"><ellipse class="st7" cx="2257" cy="1472" rx="22" ry="18"/></a>
+	<a href="Images/moon hall.html" target="_blank"><ellipse class="st7" cx="2281" cy="1435" rx="22" ry="15"/></a>
+	
+	<a href="Images/square 1.html" target="_blank"><ellipse transform="matrix(0.6431 -0.7658 0.7658 0.6431 -333.9677 2155.3792)" class="st7" cx="2145.5" cy="1436" rx="51" ry="49.5"/></a>
+	<a href="Images/square 1.html" target="_blank"><ellipse class="st7" cx="2192.5" cy="1427.5" rx="20.5" ry="21.5"/></a>
+	<a href="Images/Snack Bar 2.html" target="_blank"><ellipse class="st7" cx="2577.5" cy="1340.5" rx="24.5" ry="15.5"/></a>
+	<a href="Images/Snack Bar 1.html" target="_blank"><ellipse class="st7" cx="1345.5" cy="1190" rx="20.5" ry="17"/></a>
+	<text transform="matrix(1 0 0 1 2120.2129 1428.2129)"><tspan x="0" y="0" class="st9 st10"><a href="Images/square 1.html" target="_blank">SQUARE</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/square 1.html" target="_blank">ONE</a></tspan></text>
+			<text transform="matrix(1.1317 0 0 1 2171.957 1429.6709)" class="st9 st81"><a href="" target="_blank">Canusem</a></text>
+			<text transform="matrix(1 0 0 1 2239.7236 1476.957)" class="st9 st10"><a href="Images/dhaba.html" target="_blank">Dhaba</a></text>
+			<text transform="matrix(1 0 0 1 2267.4043 1432.0635)"><tspan x="0" y="0" class="st9 st10"><a href="Images/moon hall.html" target="_blank">Moon</a></tspan><tspan x="0" y="14.4" class="st9 st10"><a href="Images/moon hall.html" target="_blank">Hall</a></tspan></text>
+			<text transform="matrix(0.8981 0 0 1 2108.7393 1524.5313)"><tspan x="0" y="0" class="st9 st82"><a href="Images/tuck shop 1.html" target="_blank">Tuck </a></tspan><tspan x="0" y="9.4" class="st9 st82"><a href="Images/tuck shop 1.html" target="_blank">Shop 1</a></tspan></text>
+			<text transform="matrix(0.5923 0.4692 -0.6209 0.7839 2145.7661 1299.7587)" class="st9 st10"><a href="Images/campus store.html" target="_blank">Campus Store</a></text>
+			<text transform="matrix(0.9563 0 0 1 2566.0005 1338.8057)"><tspan x="0" y="0" class="st9 st83"><a href="Images/snacks bar2.html" target="_blank">Snack</a></tspan><tspan x="0" y="12.6" class="st9 st83"><a href="Images/snacks bar2.html" target="_blank">Bar 2</a></tspan></text>
+			<text transform="matrix(0.9499 0 0 1 1827.0215 762.6602)"><tspan x="0" y="0" class="st9 st84"><a href="Images/square 2.html" target="_blank">Square </a> </tspan><tspan x="0" y="5.2" class="st9 st84"><a href="Images/square 2.html" target="_blank">     2</a></tspan></text>
+			<text transform="matrix(0.7275 0 0 1 1784.2061 766.4897)"><tspan x="0" y="0" class="st9 st85"><a href="Images/tuck shop 2.html" target="_blank">Tuck </a></tspan><tspan x="0" y="7.9" class="st9 st85"><a href="Images/tuck shop 2.html" target="_blank">Shop 2</a></tspan></text>
+			<text transform="matrix(0.9522 0 0 1 1332.1279 1186.5449)"><tspan x="0" y="0" class="st9 st86"><a href="Images/snacks bar1.html" target="_blank">Snack </a></tspan><tspan x="0" y="13.7" class="st9 st86"><a href="Images/snacks bar1.html" target="_blank"> Bar 1</a></tspan></text>
+			<text transform="matrix(0.8492 0 0 1 1212 2000.5664)"><tspan x="0" y="0" class="st9 st87"><a href="Images/circle 1.html" target="_blank">Circle </a></tspan><tspan x="0" y="25.2" class="st9 st87"><a href="Images/circle 1.html" target="_blank">One</a></tspan></text>
+			
+			<a href="Images/tuckshop3.html" target="_blank"><ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -104.9439 1505.6431)" class="st7" cx="1765" cy="879.5" rx="20" ry="15.5"/></a>
+			<text transform="matrix(0.9655 0 0 1 1757.0078 873.2012)"><tspan x="0" y="0" class="st9 st88"><a href="" target="_blank">Tuck</a></tspan><tspan x="0" y="10.3" class="st9 st88"><a href="" target="_blank">Shop</a></tspan><tspan x="0" y="20.6" class="st9 st88"><a href="" target="_blank">  3</a></tspan></text>
+</g></g>
+<circle cx="25" cy="25" r="21" fill="white" opacity="0.75"/>
+    <path class="button" onclick="pan(0, 100)" d="M3637.1,2061.7l70.9,113.2c-46.2-24.3-95.7-24.3-141.8,0L3637.1,2061.7z" />
+    <path class="button" onclick="pan(200, 0)" d="M3400.7,2288.1l118.2-67.9c-25.4,44.2-25.4,91.6,0,135.8L3400.7,2288.1z" />
+    <path class="button" onclick="pan(0,-100)" d="M3637.1,2514.4l70.9-113.2c-46.2,24.3-95.7,24.3-141.8,0L3637.1,2514.4z" />
+    <path class="button" onclick="pan(-200, 0)" d="M3873.4,2288.1l-118.2-67.9c25.4,44.2,25.4,91.6,0,135.8L3873.4,2288.1z" />
+    
+    <circle class="compass" cx="3637.1" cy="2288.1" r="118"/>
+    <circle class="button"  cx="3637.1" cy="2237.2" r="46" onclick="zoom(0.8)"/>
+    <circle class="button"  cx="3637.1" cy="2339" r="46" onclick="zoom(1.25)"/>
+
+    <rect class="plus-minus" x="3613.4" y="2231.5" width="47.3" height="11.3"/>
+    <rect class="plus-minus" x="3613.4" y="2333.3" width="47.3" height="11.3"/>
+    <rect class="plus-minus" x="3631.2" y="2316.4" width="11.8" height="45.3"/>
+
+    <script type="text/javascript"><![CDATA[
+        var transformMatrix = [1, 0, 0, 1, 0, 0];
+        var svg = document.getElementById('map-svg');
+        var viewbox = svg.getAttributeNS(null, "viewBox").split(" ");
+        var centerX = parseFloat(viewbox[2]) / 2;
+        var centerY = parseFloat(viewbox[3]) / 2;
+        var matrixGroup = svg.getElementById("matrix-group");
+        function pan(dx, dy) {
+            transformMatrix[4] += dx;
+            transformMatrix[5] += dy;
+            setMatrix();
+        }
+        function zoom(scale) {
+            for (var i = 0; i < 6; i++) {
+                transformMatrix[i] *= scale;
+            }
+            transformMatrix[4] += (1 - scale) * centerX;
+            transformMatrix[5] += (1 - scale) * centerY;
+            setMatrix();
+        }
+        function setMatrix() {
+            var newMatrix = "matrix(" +  transformMatrix.join(' ') + ")";
+            matrixGroup.setAttributeNS(null, "transform", newMatrix);
+        }
+    ]]></script>
+</svg>
